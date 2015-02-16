@@ -3,6 +3,7 @@ HackRolla Website/Blog
 - Hosted with [Github Pages](https://pages.github.com/)
 - Built with [Jekyll](http://jekyllrb.com/)
 - Using a modified version of [minimal-block](https://github.com/drvy/minimal-block) Jekyll theme
+- Posts are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Updating Directions
 ===================
