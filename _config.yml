@@ -1,0 +1,23 @@
+# General
+name: HackRolla
+description: "A Rolla, Missouri Maker Community"
+url: http://hackrolla.github.io
+#url: http://localhost:4000
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 5
+permalink: /:title
+
+# Social share and comments.
+#disqus-id: yourusername
+#twitter: yourusername
+github: HackRolla
+wiki: https://github.com/HackRolla/Information/wiki
+mailing_list: https://groups.google.com/forum/#!forum/hackrolla
+#google: +yourusername
+
+# RSS feed
+rss-feed-limit: 10
+rss-show-full: "no"
